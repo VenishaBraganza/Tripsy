@@ -247,4 +247,3 @@ For issues or questions:
 
 ---
 
-Built with ❤️ and powered by AI
